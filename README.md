@@ -1,8 +1,7 @@
-
 # 📘 E-Book HTML Lengkap untuk Pembelajaran dan Pendalaman
 
 **Hak Cipta: NEWBIE CYBER SECURITY**  
-**FOUNDER BY MUHAMMAD ANUGRO CAHYO RAMADHAN**
+**FOUNDER BY RamaFounderNCS**
 
 ---
 
@@ -178,4 +177,4 @@ JavaScript untuk interaktivitas:
 ## ⚠️ Copyright
 
 **Hak Cipta 2025 - NEWBIE CYBER SECURITY**  
-**FOUNDER BY MUHAMMAD ANUGRO CAHYO RAMADHAN**
+**FOUNDER BY RamaFounderNCS**
